@@ -1,4 +1,5 @@
 ## Basic LED Project
+The basic LED project.
 
 ### Starting
 To download this project to your computer:
